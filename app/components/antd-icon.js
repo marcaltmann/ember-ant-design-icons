@@ -1,0 +1,1 @@
+export { default } from 'ember-ant-design-icons/components/antd-icon';
